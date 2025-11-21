@@ -56,8 +56,9 @@ Go to frontend folder:
 
 ```bash
 cd frontend
+
 Run frontend:
 
 bash
-Copy code
 npm run dev
+
